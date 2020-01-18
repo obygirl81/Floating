@@ -7,14 +7,20 @@ header {
 
 #left {
     background-color: #0074D9;
+    color: black;
+    width: 33%;
 }
 
 #middle {
     background-color: #FFDC00;
+    color: black;
+    width: 33%;
 }
 
 #right {
     background-color: #39CCCC;
+    color: black;
+    width: 33%;
 }
 
 #full {
