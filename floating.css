@@ -9,18 +9,21 @@ header {
     background-color: #0074D9;
     color: black;
     width: 33%;
+    float: left;
 }
 
 #middle {
     background-color: #FFDC00;
     color: black;
     width: 33%;
+    float: left;
 }
 
 #right {
     background-color: #39CCCC;
     color: black;
     width: 33%;
+    float: left;
 }
 
 #full {
