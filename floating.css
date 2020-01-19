@@ -1,43 +1,71 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    font-size: 26px;
+}
+
 header {
     background: #FF4136;
-    padding: 25px;
+    padding: 55px;
     margin-bottom: 25px;
+    margin-top: 25px;
     color: bisque;
 }
 
 #left {
     background-color: #0074D9;
     color: black;
-    width: 33%;
+    width: 33.3%;
     float: left;
 }
 
 #middle {
     background-color: #FFDC00;
     color: black;
-    width: 33%;
+    width: 33.3%;
     float: left;
 }
 
 #right {
     background-color: #39CCCC;
     color: black;
-    width: 33%;
+    width: 33.3%;
     float: left;
 }
 
 #full {
+    clear: both;
     background-color: #DDDDDD;
+    overflow: auto;
+    width: 100%;
+}
+
+section {
+    padding: 55px;
+    margin-bottom: 25px;
 }
 
 #division {
     background-color: #85144b;
+    padding: 55px;
+    margin-top: 25px;
 }
 
 aside {
-    background-color: #DDDDDD;
+    background-color: #01FF70;
+    width: 33%;
+    height: 230px;
+    border: 1.5px solid  #39CCCC;
+    padding: 55px;
+    float: left;
+    margin-left: 35px;
 }
 
 footer {
+    clear: both;
+    padding: 55px;
     background-color: #AAAAAA;
 }
