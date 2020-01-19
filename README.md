@@ -10,7 +10,7 @@ Here is the link to check out this page:
 
 ### Screenshot
 ##### Homepage
-![Screenshot of home page]()
+![Screenshot of home page](https://github.com/obygirl81/Floating/blob/master/image/Screen%20Shot%202020-01-18%20at%205.41.20%20PM.png)
 
 ### Author
 * Obiageli Ogbutor
