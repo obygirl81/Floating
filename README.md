@@ -6,7 +6,7 @@ This is a page developed to show floats in CSS using:
 
 
 ### Link
-Here is the link to check out this page: 
+Here is the link to check out this page: https://obygirl81.github.io/Floating/
 
 ### Screenshot
 ##### Homepage
